@@ -1,0 +1,16 @@
+Folder Endings:
+"_Visual":  Contains images of residual graphs and histograms
+"_ArtVein": Contains fractal dimension data separated by artery and vein
+
+Folders:
+- FDs:              FDs using powers of 2 as box sizes
+- FDs_20Size:       FDs using [2, 20, 2] as box sizes
+- FDs_20SizeBy1:    FDs using [2, 20, 1] as box sizes
+- FDs_ManySize:     FDs using [2, max_size/2, 2] as box sizes
+- FDs_ManySizeBy1:  FDs using [2, max_size/2, 1] as box sizes
+
+Additional Notes:
+- FDs, unless indicated, are calculated over the ENTIRE series of box sizes
+- Square brackets indicate a series of numbers defined as [start, end, step_size]
+- "max_size" indicates maximum box size allowed for image
+  - this is usually the smallest image dimension
