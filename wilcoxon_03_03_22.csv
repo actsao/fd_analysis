@@ -1,0 +1,7 @@
+feature,lobe,artery_or_vein,t-test_control_pah,wilcoxon_control_pah
+FDs__Fractal_Dimension,whole,,0.0687566,0.049918911
+FDs_DNN_SCALE__Fractal_Dimension,whole,,7.74E-05,0.000141582
+FDs_ArtVein__Fractal_Dimension,whole,artery,0.748728998,0.28606364
+FDs_DNN_SCALE_ArtVein__Fractal_Dimension,whole,artery,0.015255786,0.032210269
+FDs_ArtVein__Fractal_Dimension,whole,vein,1.20E-06,1.57E-06
+FDs_DNN_SCALE_ArtVein__Fractal_Dimension,whole,vein,4.99E-08,1.23E-07
