@@ -1,6 +1,6 @@
 # FD Analysis
 
-![Measuring the coast of Britain](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/32_segment_fractal.jpg/240px-32_segment_fractal.jpg)
+![Fractal Analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/32_segment_fractal.jpg/240px-32_segment_fractal.jpg)
 
 Code to compile and analyze FD data. Includes folders with FD data (as of 7/27/2022) for pruning, offsets, artery/vein, DNN, FACTOR scaling, and surface area via marching cubes.
 
