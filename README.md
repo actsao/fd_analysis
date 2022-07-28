@@ -33,7 +33,16 @@ conda activate fd_analysis
 jupyter lab
 ```
 
-## Keys
+## Guide
+### Relevant Data:
+| Data (.csv)         | Description                                                                     |
+|---------------------|---------------------------------------------------------------------------------|
+| analysis_FDs_data   | Raw data from FDs_data, which includes most of generated FD data minus pruning. |
+| analysis_DNN        | Basic stats for DNN and FACTOR scaled data                                      |
+| pruned_FDs          | Raw data of % BV5 pruning                                                       |
+| analysis_BV5Pruning | Basic stats of % BV5 pruning                                                    |
+
+
 ### Relevant Notebooks:
 | Notebook (.ipynb)    | Description                                                                                                                                         |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
